@@ -10,3 +10,9 @@ shouldn't crash unless there is a bug.
 However while analyzing why PHP services crash I occasionally found
 situations where PHP crashed that the PHP developers didn't consider
 worth fixing. I'll collect them here.
+
+links
+=====
+
+* [Similar repository for Python](http://svn.python.org/view/python/trunk/Lib/test/crashers/)
+* [CrashingPython in the Python wiki](https://wiki.python.org/moin/CrashingPython)
