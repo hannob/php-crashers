@@ -14,5 +14,5 @@ worth fixing. I'll collect them here.
 links
 =====
 
-* [Similar repository for Python](http://svn.python.org/view/python/trunk/Lib/test/crashers/)
+* [Similar repository for Python](https://hg.python.org/cpython/file/default/Lib/test/crashers/)
 * [CrashingPython in the Python wiki](https://wiki.python.org/moin/CrashingPython)
