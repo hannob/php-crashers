@@ -11,6 +11,12 @@ However while analyzing why PHP services crash I occasionally found
 situations where PHP crashed that the PHP developers didn't consider
 worth fixing. I'll collect them here.
 
+2024 update notice
+==================
+
+To PHP's credit, all of the examples in this repository no longer crash
+in modern PHP (tested with 8.3.3).
+
 links
 =====
 
